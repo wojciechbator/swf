@@ -2,5 +2,10 @@ github.com/Kelvyne/swf v0.0.0-20161230134750-f76892fc7f83 h1:GbW1QclUB29qkK3m0b8
 github.com/Kelvyne/swf v0.0.0-20161230134750-f76892fc7f83/go.mod h1:TiUbpLJRZANJW0x00jaksB2xZjNV0kgMPDuueKyCEKs=
 github.com/icza/bitio v0.0.0-20161115225615-7db4715789cd h1:tzw0u49GR3pe8PYWe7++TU1xCW4TSiD7myk/wUKPfAU=
 github.com/icza/bitio v0.0.0-20161115225615-7db4715789cd/go.mod h1:1+iKpsBoI5fsqBTrjxjM81vidVQcxXCmDrM9vc6EU2w=
+github.com/icza/bitio v1.0.0 h1:squ/m1SHyFeCA6+6Gyol1AxV9nmPPlJFT8c2vKdj3U8=
+github.com/icza/bitio v1.0.0/go.mod h1:0jGnlLAx8MKMr9VGnn/4YrvZiprkvBelsVIbA9Jjr9A=
+github.com/icza/mighty v0.0.0-20180919140131-cfd07d671de6/go.mod h1:xQig96I1VNBDIWGCdTt54nHt6EeI639SmHycLYL7FkA=
+github.com/icza/mighty v0.0.0-20200205104645-c377cb773678 h1:qDS615z2ayqE3jdG6SosEQknlqg5dhp3SSQ/ZPMSBZ0=
+github.com/icza/mighty v0.0.0-20200205104645-c377cb773678/go.mod h1:klfNufgs1IcVNz2fWjXufNHkhl2cqIUbFoia2580Iv4=
 github.com/wojciechbator/swf v0.0.0-20161230134750-f76892fc7f83 h1:RhWKoxc4xjLUDNaWkHob56cQtVQakJz3jB/I8X4gUC0=
 github.com/wojciechbator/swf v0.0.0-20161230134750-f76892fc7f83/go.mod h1:T5eNcR7gRUzOIPg8lzuqwdj4lpxP8RaQolakgFyZPnk=
