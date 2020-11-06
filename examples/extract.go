@@ -1,9 +1,12 @@
 package main
 
-import "github.com/kelvyne/swf"
-import "os"
-import "fmt"
-import "io/ioutil"
+import (
+	"fmt"
+	"io/ioutil"
+	"os"
+
+	"github.com/kelvyne/swf"
+)
 
 func main() {
 	file, err := os.Open(os.Args[1])
