@@ -41,9 +41,9 @@ type reader struct {
 // NewReader provides a simple way to create a Reader from a given io.Reader
 func NewReader(r io.ReadSeeker) Reader {
 	if cast, ok := r.(byteReadSeeker); ok {
-		return &reader{&bitio.NewReader(cast), cast}
+		return &reader{*bitio.NewReader(cast), cast}
 	}
-	return &reader{&bitio.NewReader(r), &simpleByteReadSeeker{r}}
+	return &reader{*bitio.NewReader(r), &simpleByteReadSeeker{r}}
 }
 
 func (r *reader) Seek(offset int64, whence int) (int64, error) {
